@@ -61,7 +61,7 @@ function App() {
         <Route path="/dashboard/product" element={<DashboardLayout><ProductForm /></DashboardLayout>} />
       </Routes>
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App
