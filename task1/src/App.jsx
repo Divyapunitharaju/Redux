@@ -20,7 +20,7 @@ const updateMetaTags = (title, description) => {
   }
 }
 
-
+//update
 const MetaUpdater = () => {
   const location = useLocation();
 
